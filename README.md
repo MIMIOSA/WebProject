@@ -1,7 +1,7 @@
 # WebProject
 
 
-**1**
+**1.设置断点**
 ![imadge](https://github.com/MIMIOSA/WebProject/blob/master/1.JPG)
 **2.跳入**
 ![imadge](https://github.com/MIMIOSA/WebProject/blob/master/2.JPG)
