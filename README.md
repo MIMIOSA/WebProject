@@ -1,5 +1,6 @@
 # WebProject
 
+**截图**
 
 **1.设置断点**
 ![imadge](https://github.com/MIMIOSA/WebProject/blob/master/1.JPG)
